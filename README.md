@@ -7,7 +7,7 @@ The project compares multiple models including Logistic Regression, Naive Bayes,
 ## 🚀 Live Demo
 
 Streamlit App:  
-[(Add your Streamlit URL here)](https://sentiment-analysis-ai-gfyy6udxqqdokporqhsgqc.streamlit.app/)
+[(https://sentiment-analysis-ai-gfyy6udxqqdokporqhsgqc.streamlit.app/)]
 
 ---
 
